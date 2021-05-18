@@ -1,6 +1,6 @@
-# logistic-regression
+# recommender-systems
 
-A playground for reinforcement learning.
+A playground for recommender systems.
 
 Use [Pipenv](https://pipenv.pypa.io/en/latest/#) to set up the Python environment for running the notebook.
 
